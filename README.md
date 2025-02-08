@@ -11,6 +11,7 @@ The curret projects I am working on are:
 
 <!--
 https://vercel.com/smansu4s-projects/github-readme-stats/7mCBz1bFzXLev4uAJyhnSNSYXXZG for running instance.
+If the stats stopp showing, check if the token has expired in settings; May need to update token in vercel and redeploy. 
 -->
 
 [![Smansu4's GitHub stats](https://github-readme-stats-smansu4s-projects.vercel.app/api?username=smansu4&show_icons=true&include_all_commits=true&count_private=true"
