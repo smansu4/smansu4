@@ -1,18 +1,20 @@
-## Hi there 👋
+## Hello, I'm smansu4!
+
+The repositories here are mostly private with small projects I make in my spare time. 
+
+The curret projects I am working on are: 
+1. Pascal compiler written in Java
+2. Vue.js mini projects to ramp up learning for new client project
+3. Terraform -- Learning cloud :cloud:
+
+
 
 <!--
-**smansu4/smansu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://vercel.com/smansu4s-projects/github-readme-stats/7mCBz1bFzXLev4uAJyhnSNSYXXZG for running instance.
 -->
+Note: The stats below do not show private repo contributions. Currently working on configuring private stats to reflect in the snapsots below. 
 
-[![Smansu4's GitHub stats](https://github-readme-stats.vercel.app/api?username=smansu4&show_icons=true)](https://github.com/smansu4/github-readme-stats)
+[![Smansu4's GitHub stats](https://github-readme-stats-smansu4s-projects.vercel.app/api?username=smansu4&show_icons=true&include_all_commits=true"
+)](https://github.com/smansu4/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-smansu4s-projects.vercel.app/api/top-langs/?username=smansu4&layout=compact)
