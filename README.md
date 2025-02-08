@@ -12,9 +12,8 @@ The curret projects I am working on are:
 <!--
 https://vercel.com/smansu4s-projects/github-readme-stats/7mCBz1bFzXLev4uAJyhnSNSYXXZG for running instance.
 -->
-Note: The stats below do not show private repo contributions. Currently working on configuring private stats to reflect in the snapsots below. 
 
-[![Smansu4's GitHub stats](https://github-readme-stats-smansu4s-projects.vercel.app/api?username=smansu4&show_icons=true&include_all_commits=true"
+[![Smansu4's GitHub stats](https://github-readme-stats-smansu4s-projects.vercel.app/api?username=smansu4&show_icons=true&include_all_commits=true&count_private=true"
 )](https://github.com/smansu4/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-smansu4s-projects.vercel.app/api/top-langs/?username=smansu4&layout=compact)
